@@ -5,19 +5,17 @@ body{
   padding: 0;
 }
 
-.big-footer {
-  position: fixed;
-  bottom: 0px;
-  margin-left: 10%;
-  margin-right: 10%;
+header {
+  height: 100%;
 }
-
+.big-header-content {
+  height: 100%;
+}
+.big-index-content {
+  height: 100%;
+}
 .big-registration-panel {
   padding: 10px;
   background-color: #eee;
   border-radius: 10px;
-}
-
-.big-name-input {
-  /*width: 50%;*/
 }
