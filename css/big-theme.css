@@ -1,0 +1,23 @@
+body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.big-footer {
+  position: fixed;
+  bottom: 0px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.big-registration-panel {
+  padding: 10px;
+  background-color: #eee;
+  border-radius: 10px;
+}
+
+.big-name-input {
+  /*width: 50%;*/
+}
