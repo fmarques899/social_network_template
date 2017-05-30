@@ -40,26 +40,24 @@ header {
 }
 
 .big-sidebar-nav {
-  background-color: #eee;
 }
 
 .big-search{
   width: 400px !important;
 }
 
-#feed {
-  
+#center {
+  background-color: #eee !important;
 }
 .big-feed-img {
   width: 128px;
   height: 128px;
   max-height: 200px;
+  border: solid 1px;
   border-radius: 50%;
+  border-color: #eee;
 }
 
 .big-media {
-  background-color: #eee;
-  border-color: red;
-  border-width: thin;
   padding: 10px;
 }
