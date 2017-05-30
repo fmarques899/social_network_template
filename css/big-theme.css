@@ -46,3 +46,20 @@ header {
 .big-search{
   width: 400px !important;
 }
+
+#feed {
+  
+}
+.big-feed-img {
+  width: 128px;
+  height: 128px;
+  max-height: 200px;
+  border-radius: 50%;
+}
+
+.big-media {
+  background-color: #eee;
+  border-color: red;
+  border-width: thin;
+  padding: 10px;
+}
