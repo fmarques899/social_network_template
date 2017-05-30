@@ -2,7 +2,7 @@ body {
   height: 100%;
   width: 100%;
   margin: 0;
-  padding: 0;
+  padding-top: 60px;
 }
 
 body input:hover{
@@ -60,4 +60,25 @@ header {
 
 .big-media {
   padding: 10px;
+}
+
+.big-advertising{
+  background-color: #eee;
+  width: 200px;
+  height: 500px;
+}
+
+.big-avatar-nav{
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  box-shadow:
+    inset 0 0 0 2px rgba(255,255,255,0.6),
+    0 1px 1px rgba(0,0,0,0.1);
+  background-color: transparent !important;
+  z-index: 999;
+}
+
+.big-navbar-search-button {
+  background-color: transparent;
 }
